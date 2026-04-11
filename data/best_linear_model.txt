@@ -1,0 +1,2 @@
+T0b	Pb	T0c	Pc	T0b_err_up	T0b_err_down	P_b_err_up	P_b_err_down	T0c_err_up	T0c_err_down	P_c_err_up	P_c_err_down
+2458590.103087894	6.959474595898936	2458588.170502189	14.334899963453676	0.000339	0.00033	2.3e-06	2.3e-06	0.0019	0.001	1.3e-05	2.3e-06
